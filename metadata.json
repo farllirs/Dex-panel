@@ -1,0 +1,11 @@
+{
+    "name": "Dex panel",
+    "identifier": "Dex.panel.Oficial",
+    "creator": "dex",
+    "version": "1.0.0",
+    "category": "System",
+    "license": "MIT",
+    "type": "GUI",
+    "icon": "icons/app-icon.png",
+    "description": "panwl oficial tipo Mac y Windows"
+}
